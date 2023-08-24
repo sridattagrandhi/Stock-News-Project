@@ -1,7 +1,6 @@
 import requests
 from twilio.rest import Client
 import datetime as dt
-import smtplib
 
 STOCK_NAME = "TSLA"
 COMPANY_NAME = "Tesla Inc"
